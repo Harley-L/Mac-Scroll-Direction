@@ -7,4 +7,4 @@ Made for people who use natural scroll direction for trackpad and non-natural sc
 3. Export to application. 
 4. Run whenever you want to make the neccecary changes
 
-* Find the manufacturer and name of your mouse by typing `system_profiler SPUSBDataType` or `system_profiler spbluetoothdatatype`
+*Find the manufacturer and name of your mouse by typing `system_profiler SPUSBDataType` or `system_profiler spbluetoothdatatype`
